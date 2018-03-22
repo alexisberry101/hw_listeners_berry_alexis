@@ -1,0 +1,23 @@
+body {
+  background-color: #ffc0cb;
+}
+.container {
+  text-align: center;   
+}
+form {
+  color: #000080;
+  font-family: "EB Garamond", serif;
+  padding-top: 20px;
+}
+input, textarea {
+	border: 2px solid;
+	border-color: #7798e5;
+  padding: 5px;
+}
+input[type="submit"] {
+  font-family: "EB Garamond", serif;
+	padding: 10px 10px 10px 10px;
+	background-color: white;
+	border-color: #7798e5;
+	color: #000080;
+}
